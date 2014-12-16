@@ -1,0 +1,14 @@
+E:\Projects2013\WiiUMediaTranscoder\Common\bin\Release\lib\Sample.mp3
+E:\Projects2013\WiiUMediaTranscoder\Common\bin\Release\lib\ffmpeg.exe
+E:\Projects2013\WiiUMediaTranscoder\Common\bin\Release\Common.dll
+E:\Projects2013\WiiUMediaTranscoder\Common\bin\Release\Common.pdb
+E:\Projects2013\WiiUMediaTranscoder\Common\bin\Release\Common.xml
+E:\Projects2013\WiiUMediaTranscoder\Common\bin\Release\policy.2.0.taglib-sharp.dll
+E:\Projects2013\WiiUMediaTranscoder\Common\bin\Release\taglib-sharp.dll
+E:\Projects2013\WiiUMediaTranscoder\Common\bin\Release\policy.2.0.taglib-sharp.config
+E:\Projects2013\WiiUMediaTranscoder\Common\obj\Release\Common.Resources.resources
+E:\Projects2013\WiiUMediaTranscoder\Common\obj\Release\Common.vbproj.GenerateResource.Cache
+E:\Projects2013\WiiUMediaTranscoder\Common\obj\Release\Common.dll
+E:\Projects2013\WiiUMediaTranscoder\Common\obj\Release\Common.xml
+E:\Projects2013\WiiUMediaTranscoder\Common\obj\Release\Common.pdb
+E:\Projects2013\WiiUMediaTranscoder\Common\obj\Release\Common.vbprojResolveAssemblyReference.cache

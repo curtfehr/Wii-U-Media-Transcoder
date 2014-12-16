@@ -1,0 +1,11 @@
+Issues
+
+---sometimes ffmpeg can't autodetect correct duration, but taglib does.  make ffmpeg take duration parameter (-t seconds) from taglib seconds discovered
+
+---somehow booted over to idle after processing a few files, even with queues enabled and stuff still in queue - possibly had critical failure in process queues, last iteration of that set to idle instead of leaving as critical
+
+---when copying in a large amount of files, file system watcher doesn't pick them all up (copied in 72 at once, only got 19 picked up).  this is a limitation of filesystemwatcher.  Need to detect when possible buffer overflow occurs, and kick off separate thread to scan the directory for changes manually.  also, should add that functionality of scanning a directory when initially adding a folder.
+
+---gui loses focus and watch directories sometimes disappear from display (still there though)
+
+---added feature that queues current files of watch directory when initially adding watch directory
